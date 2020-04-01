@@ -9,4 +9,6 @@
  7. Резистор переменный 10ком (управление контрастностью дисплея);
  8. 4-релейный модуль (управление клапанами водоснабжения);
 
+###### Схема соединений модулей:
+
 ![screenshot of sample](https://raw.githubusercontent.com/wenom86/AutoWatering_v1/master/AutoWatering_v1.0_shem.jpg)
