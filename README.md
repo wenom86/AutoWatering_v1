@@ -1,3 +1,3 @@
 ﻿# AutoWatering_v1
 Система автополива, состоящая из компонентов: Arduino 2560, дисплея LCD2004, модуля часов реального времени DS3231, мембранной клавиатуры 4х4, датчика температуры Dallas 18b20, транзистора MOSFET 60n03(управление подстветкой дисплея), резистора переменного 10ком (управление контрастностью дисплея), 
-![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.26f1a225c4d5e8f82377d63c6b105ac9c4c1b726
+![screenshot of sample](http://webdesign.ru.net/images/Heydon_min.2346
